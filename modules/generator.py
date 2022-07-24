@@ -48,7 +48,8 @@ def gen(info, captcha):
                 print(colored('[!] IP Banned ', 'red'))
                 continue
             else:
-                print(colored('[!] Blocked By CloudFlare | Takin\' a nap.', 'red'))
+                print(colored('[!] Blocked By CloudFlare | Sleeping', 'red'))
+                time.sleep(10)
                 continue
         except Exception as n:
             print(colored('[!] Proxy Error', 'red'))
