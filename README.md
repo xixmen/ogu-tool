@@ -1,7 +1,7 @@
 
 # Ogu-Gen
 
-An account generator for ogusers!
+A botting tool and account generator for ogusers!
 
 ## Installation
 
