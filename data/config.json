@@ -1,0 +1,9 @@
+{
+  "info1": "Only Supports Capmonster atm",
+  "captcha_api_key": "",
+  "info2": "user:pass:ip:port only and need to be rotating",
+  "proxy": "",
+  "threads":"1",
+  "info3": "Use names from names.txt",
+  "custom_names": "false"
+}
