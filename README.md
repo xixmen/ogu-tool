@@ -5,7 +5,7 @@ A botting tool and account generator for ogusers!
 
 ## Installation
 
-Install my-project with pip
+Install requirements with pip
 
 ```bash
   pip install -r requirements.txt
