@@ -53,6 +53,9 @@ It only supports capmonster atm
 ![App Screenshot](https://file.coffee/u/DD6744bLxPS4nu_7ZK0Uc.png)
 ![App Screenshot](https://file.coffee/u/YF3rP2_zHJfOWKy6mvleu.png)
 
+## Support
+
+99% of errors are caused by proxys try changing the location
 
 ## Authors
 
