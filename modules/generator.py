@@ -49,7 +49,7 @@ def gen(info, captcha):
                 continue
             else:
                 print(colored('[!] Blocked By CloudFlare | Sleeping', 'red'))
-                time.sleep(10)
+                time.sleep(60)
                 continue
         except Exception as n:
             print(colored('[!] Proxy Error', 'red'))
